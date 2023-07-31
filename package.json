@@ -1,0 +1,16 @@
+{
+  "name": "logogenerator",
+  "version": "1.0.0",
+  "description": "Logo Generator",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "logogenerator"
+  },
+  "author": "",
+  "license": "ISC"
+}
